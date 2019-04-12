@@ -1,5 +1,5 @@
 yarn start
-
+ 
 если нету ярна
 
 https://www.npmjs.com/package/yarn
